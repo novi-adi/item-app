@@ -1,2 +1,2 @@
 # item-app
-Submission DIcoding
+Submission Dicoding
